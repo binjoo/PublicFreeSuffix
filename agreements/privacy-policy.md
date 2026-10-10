@@ -34,41 +34,41 @@ We collect and use your personal information (i.e., your email address) for the 
 
 We only share your personal information in the following circumstances:
 
-* **GitHub Whois Directory Public Disclosure:** You understand and agree that, for management and transparency, your email address will be publicly disclosed in the `whois` directory of PUBLIC Free suffix GitHub repository in accordance with the registration agreement. **This GitHub repository is a public repository, and anyone can view and access its contents. You explicitly authorize PUBLIC Free Suffix to publicly disclose your email address in this manner and understand and agree that you will not hold PUBLIC Free Suffix responsible for any accessibility or any liability that may arise from such disclosure.** This means your email address will be publicly searchable.
+* **GitHub Whois Directory Public Disclosure:** You understand and agree that, for management and transparency, your email address will be publicly disclosed in the `whois` directory of the PUBLIC Free Suffix GitHub repository in accordance with the registration agreement. **This GitHub repository is a public repository, and anyone can view and access its contents. You explicitly authorize PUBLIC Free Suffix to publicly disclose your email address in this manner and understand and agree that you will not hold PUBLIC Free Suffix responsible for any accessibility or any liability that may arise from such disclosure.** This means your email address will be publicly searchable.
 
 * **Legal Requirements:** We may disclose your personal information if required by law, court order, governmental request, or to protect the legal rights and safety of PUBLIC Free Suffix or others. We will make such disclosures when necessary or as permitted by law.
 
 **We do not share your personal information with any third-party service providers, nor do we use it for marketing purposes.**
 
-**6. Your Rights**
+**5. Your Rights**
 
 If at any time you find that you no longer need to use this service, please submit a Pull Request to this project to delete your domain registration whois file, in order to remove your domain registration information from the latest version.
 
 **Special Note Regarding Whois Information:**
 
-You understand and agree that the email address you provide will be publicly disclosed in the `whois` directory of PUBLIC Free suffix GitHub repository in accordance with the registration agreement. **This public disclosure is an industry practice for management and transparency, and PUBLIC Free Suffix cannot control or delete publicly disclosed GitHub Whois information.** By registering a domain name, you acknowledge and agree to this rule. After you close your account, PUBLIC Free Suffix will process your other personal information in accordance with our data retention policy, but publicly disclosed GitHub Whois information will be retained and managed in accordance with GitHub platform policies and our management needs.
+You understand and agree that the email address you provide will be publicly disclosed in the `whois` directory of the PUBLIC Free Suffix GitHub repository in accordance with the registration agreement. **This public disclosure is an industry practice for management and transparency, and PUBLIC Free Suffix cannot control or delete publicly disclosed GitHub Whois information.** By registering a domain name, you acknowledge and agree to this rule. After you close your account, PUBLIC Free Suffix will process your other personal information in accordance with our data retention policy, but publicly disclosed GitHub Whois information will be retained and managed in accordance with GitHub platform policies and our management needs.
 
 To exercise any of these rights, please contact us using the contact information provided at the end of this Privacy Policy. We will process your request in accordance with applicable laws and respond to your request within the legally required timeframe. We may ask you to provide additional information to verify your identity.
 
-**7. Changes to This Privacy Policy**
+**6. Changes to This Privacy Policy**
 
 PUBLIC Free Suffix may update this Privacy Policy from time to time to reflect changes in our privacy practices or legal and regulatory requirements. We will post the updated Privacy Policy within our repository. Please review this Privacy Policy periodically for the latest information. **Your continued use of the Services after the posting of an updated Privacy Policy constitutes your acceptance of the revised Privacy Policy.**
 
-**8. Contact Us**
+**7. Contact Us**
 
-If you have any questions, comments, or concerns about this Privacy Policy or PUBLIC Free suffix privacy practices, please contact us at:
+If you have any questions, comments, or concerns about this Privacy Policy or PUBLIC Free Suffix privacy practices, please contact us at:
 
 * **Email:** publicfreesuffix@gmail.com
 
 * **Abuse Contact Form:** **Please submit an Issue directly to us** <https://github.com/PublicFreeSuffix/PublicFreeSuffix/issues>
 
-**9. Other Terms**
+**8. Other Terms**
 
 * This Privacy Policy constitutes the entire agreement between you and PUBLIC Free Suffix regarding the processing of your personal information in connection with your use of the Services and supersedes all prior agreements and understandings.
 
 * **Nature of Service and Limitation of Liability:** You understand and confirm that PUBLIC Free Suffix is a non-profit project, and the services it provides are without warranty or guarantee. You expressly agree that PUBLIC Free Suffix shall not be liable for any loss, damage, or liability arising from this service (including but not limited to the public disclosure of your email address in the public GitHub repository).
 
-**By registering for and using PUBLIC Free suffix Services, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy and consent to the collection, use, sharing, and protection of your personal information as described herein, and you confirm that you have reached the legal age of majority in your jurisdiction.**
+**By registering for and using PUBLIC Free Suffix Services, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy and consent to the collection, use, sharing, and protection of your personal information as described herein, and you confirm that you have reached the legal age of majority in your jurisdiction.**
 
 **Sincerely,**
 

@@ -11,7 +11,7 @@
 ## Confirmation Items
 - [ ] I confirm that I will deploy the website content for this domain name and put it into use within 30 days instead of hoarding and occupying resources.
 - [ ] I confirm that the title of this Pull Request and the submitted files are in the standard format; otherwise, it will not be processed automatically.
-- [ ] I confirmed that the name in the whois file meets the standards.
+- [ ] I confirm that the name in the whois file meets the standards.
 - [ ] I confirm that the domain name is at least 3 characters.
 - [ ] I confirm that I have read and understood the [Acceptable Use Policy](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/agreements/acceptable-use-policy.md).
 - [ ] I confirm that I have read and agree to the [Privacy Policy](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/agreements/privacy-policy.md).
